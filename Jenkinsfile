@@ -1,4 +1,4 @@
-@Library('roboshop') _
+@Library('roboshop',changelog=false) _
 
 //variables
 env.COMPONENT = "payment"
